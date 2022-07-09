@@ -2,7 +2,7 @@
 
 #include "HTTPService.h"
 #include "Globals.h"
-
+#include <memory>
 namespace BrasilAPIProvider {
 
 	class Provider
